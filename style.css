@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+img{
+    width: 250px;
+    height: 200px;
+}
+span{
+    padding: 15px;
+}
+#flower{
+    height: 420px;
+    width: 570px;
+}
+#start{
+    width: 100%;
+    height: 500px;
+    background-color:fuchsia;
+}
+#plants{
+    background-color: forestgreen;
+}
+.container{
+    text-align: center;
+}
+#mycarousel{
+    background-color: firebrick;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: white;
+}
